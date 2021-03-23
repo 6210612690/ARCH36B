@@ -1,4 +1,6 @@
 # ARCH36B
+6210612690 จิรพนธ์ กันภัย
+
 CLIP 2 = https://www.youtube.com/watch?v=rK5uh-RH7ao
 
 CLIP 3 = https://www.youtube.com/watch?v=zcUaS4tutYw
