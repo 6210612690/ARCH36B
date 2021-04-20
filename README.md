@@ -15,4 +15,4 @@ CLIP 7 = https://www.youtube.com/watch?v=WKm3tsSnzT4
 
 CLIP 8 = https://www.youtube.com/watch?v=7RMMHYHyLWA
 
-CLIP 9 =
+CLIP 9 = https://www.youtube.com/watch?v=55K7vCVB0Us
